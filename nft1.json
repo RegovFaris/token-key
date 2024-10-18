@@ -1,6 +1,5 @@
 {
-    "name": "Example Token",
-    "symbol": "EXMPL",
-    "description": "Example Token for Solana Foundation Bootcamp."
-    "image": "https://raw.githubusercontent.com/RegovFaris/token-key/refs/heads/main/lights.png"
+    "name": "Test Collection",
+    "description": "Description for test collection",
+    "image": "https://raw.githubsercontent.com/solana-developers/professional-education/main/labs/collection.png"
 }
